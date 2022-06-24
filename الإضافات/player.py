@@ -101,7 +101,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"powerd by: M7MD & ELLIOT  (@TTTLL0 @T_8_T_T)",
+        f"powerd by: M7MD & ELLIOT  (@X_8_00 @N_J_9)",
         (255, 255, 255),
         font=font,
     )
@@ -199,7 +199,7 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 ثيندر",
+                            text="😎 السورس",
                             url=f"https://t.me/t_hunder")
                    
                 ]
@@ -252,7 +252,7 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 ثيندر",
+                            text="😎 السورس",
                             url=f"https://t.me/t_hunder")
                    
                 ]
@@ -282,8 +282,8 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 ثيندر",
-                            url=f"https://t.me/T_hunder")
+                            text="😎 السورس",
+                            url=f"https://t.me/X_8_00")
                    
                 ]
             ]
@@ -350,7 +350,7 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="😎ايثون",
+                            text="😎السورس",
                             url=f"{PROFILE_CHANNEL}")
                    
                 ]
