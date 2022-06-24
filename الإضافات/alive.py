@@ -41,7 +41,6 @@ async def start_(client: Client, message: Message):
 وايضا استطيع تشغيل الفديو.
 ┏━━━━━━━━━━━━━━━━━┓                                      
 ┣❥︎ OWNER ➪ » [المالك](https://t.me/{OWNER_USERNAME})
-┣❥︎ BOTS ➪ » [تنصيب بوت]({SOURCE_CODE})
 ┣❥︎ UPDATE ➪ » [التحديثات]({UPDATES_CHANNEL})
 ┣❥︎ SUPORRT ➪ » [الدعم]({SUPPORT_GROUP})
 ┗━━━━━━━━━━━━━━━━━┛
